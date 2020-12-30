@@ -8,11 +8,19 @@
 
 ## Logos
 
-To be designed
+Gold version of logo using new palette; presented in SVG format:
+
+| Size | Logo |
+| - | - |
+| 256px | <img src="./logos/seat-logo.svg" width="256" alt="Software Engineering at Home Logo" /> |
+| 128px | <img src="./logos/seat-logo.svg" width="128" alt="Software Engineering at Home Logo" /> |
+| 64px | <img src="./logos/seat-logo.svg" width="64" alt="Software Engineering at Home Logo" /> |
+| 32px | <img src="./logos/seat-logo.svg" width="32" alt="Software Engineering at Home Logo" /> |
+| 16px | <img src="./logos/seat-logo.svg" width="16" alt="Software Engineering at Home Logo" /> |
 
 ## Banners
 
-To be designed
+To be redesigned
 
 ## Used of fonts
 
