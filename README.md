@@ -2,15 +2,9 @@
 
 ## Colour Palette
 
-![Primary Colour Block](./palette/primary.svg)
-
-![Secondary Colour Block](./palette/primary.svg)
-
-![Tertiary Colour Block](./palette/primary.svg)
-
-![Light Colour Block](./palette/primary.svg)
-
-![Dark Colour Block](./palette/primary.svg)
+| Primary | Secondary | Tertiary | Light | Dark |
+| - | - | - | - | - |
+| ![Primary Colour Block](./palette/primary.svg) | ![Secondary Colour Block](./palette/secondary.svg) | ![Tertiary Colour Block](./palette/tertiary.svg) | ![Light Colour Block](./palette/light.svg) | ![Dark Colour Block](./palette/dark.svg) |
 
 ## Logos
 
