@@ -56,7 +56,7 @@
 
 | Size | Graphic (PNG) |
 | - | - |
-| 1024x512px | <img src="./graphics/seath-branding.png" width="256" alt="Software Engineering at Home Branding" />|
+| 512x256px | <img src="./graphics/seath-branding.png" width="512" alt="Software Engineering at Home Branding" />|
 
 
 ## Used of fonts
