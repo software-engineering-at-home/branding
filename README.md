@@ -59,7 +59,7 @@
 | 512x256px | <img src="./graphics/seath-branding.png" width="512" alt="Software Engineering at Home Branding" />|
 
 
-## Used of fonts
+## Use of fonts
 
 ```css
 html, body {
