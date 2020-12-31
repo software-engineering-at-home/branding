@@ -1,5 +1,7 @@
 # Branding for Software Engineering at Home
 
+Branding for the Software Engineering at Home organisation - for use on places such as GitHub, Twitter, and YouTube.
+
 ## Colour Palette
 
 | Primary | Secondary | Tertiary | Light | Dark |
