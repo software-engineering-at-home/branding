@@ -54,7 +54,10 @@
 
 ## Social Media Banners
 
-To be redesigned using new logo.
+| Size | Graphic (PNG) |
+| - | - |
+| 1024x512px | <img src="./graphics/seath-branding.png" width="256" alt="Software Engineering at Home Branding" />|
+
 
 ## Used of fonts
 
