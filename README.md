@@ -15,6 +15,13 @@
 | 512x256px | <img src="./graphics/seath-logo.svg" width="512" alt="Software Engineering at Home Logo" /> |
 | 256x128px | <img src="./graphics/seath-logo.svg" width="256" alt="Software Engineering at Home Logo" /> |
 
+### Monochrome Logo
+
+| Size | Graphic (SVG) |
+| - | - |
+| 512x256px | <img src="./graphics/seath-logo-monochrome.svg" width="512" alt="Software Engineering at Home Logo in Monochrome" /> |
+| 256x128px | <img src="./graphics/seath-logo-monochrome.svg" width="256" alt="Software Engineering at Home Logo in Monochrome" /> |
+
 ### Icon
 
 | Size | Graphic (SVG) |
@@ -29,11 +36,11 @@
 
 | Size | Graphic (SVG) |
 | - | - |
-| 256px | <img src="./graphics/seath-icon-monochrome.svg" width="256" alt="Software Engineering at Home Monochrome Icon" /> |
-| 128px | <img src="./graphics/seath-icon-monochrome.svg" width="128" alt="Software Engineering at Home Monochrome Icon" /> |
-| 64px | <img src="./graphics/seath-icon-monochrome.svg" width="64" alt="Software Engineering at Home Monochrome Icon" /> |
-| 32px | <img src="./graphics/seath-icon-monochrome.svg" width="32" alt="Software Engineering at Home Monochrome Icon" /> |
-| 16px | <img src="./graphics/seath-icon-monochrome.svg" width="16" alt="Software Engineering at Home Monochrome Icon" /> |
+| 256px | <img src="./graphics/seath-icon-monochrome.svg" width="256" alt="Software Engineering at Home Icon in Monochrome" /> |
+| 128px | <img src="./graphics/seath-icon-monochrome.svg" width="128" alt="Software Engineering at Home Icon in Monochrome" /> |
+| 64px | <img src="./graphics/seath-icon-monochrome.svg" width="64" alt="Software Engineering at Home Icon in Monochrome" /> |
+| 32px | <img src="./graphics/seath-icon-monochrome.svg" width="32" alt="Software Engineering at Home Icon in Monochrome" /> |
+| 16px | <img src="./graphics/seath-icon-monochrome.svg" width="16" alt="Software Engineering at Home Icon in Monochrome" /> |
 
 ### Icon with background
 
